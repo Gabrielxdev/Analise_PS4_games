@@ -44,3 +44,9 @@ Este repositório contém uma análise detalhada das vendas globais de jogos do 
 - **Europa**: Maior mercado individual (47% no pico)
 - **Japão**: Menor participação, mas com nichos específicos
 - **Rockstar Games**: Publisher com maiores lançamentos (GTA V, Red Dead Redemption 2)
+
+- ## 🛠️ Tecnologias Utilizadas
+- Python 3
+- Pandas (Análise de dados)
+- Matplotlib/Seaborn (Visualização)
+- Scikit-learn (Pré-processamento)
